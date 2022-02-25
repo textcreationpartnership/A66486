@@ -1,0 +1,552 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The excellency of wisdom, disclosing it self in the virtues of a good life recommended to the natives of Warwick-shire, in a sermon preached to them on their anniversary feast-day, in London, Nov. 30th, 1675 / by Thomas Willis ...</title>
+            <author>Willis, Thomas, 1619 or 20-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66486</idno>
+            <idno type="STC">Wing W2817</idno>
+            <idno type="STC">ESTC R18944</idno>
+            <idno type="EEBO-CITATION">12528915</idno>
+            <idno type="OCLC">ocm 12528915</idno>
+            <idno type="VID">62730</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62730)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 952:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The excellency of wisdom, disclosing it self in the virtues of a good life recommended to the natives of Warwick-shire, in a sermon preached to them on their anniversary feast-day, in London, Nov. 30th, 1675 / by Thomas Willis ...</title>
+                  <author>Willis, Thomas, 1619 or 20-1692.</author>
+               </titleStmt>
+               <extent>[14], 32, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. for Abel Roper ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Errata: p. [2]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wisdom --  Biblical teaching.</term>
+               <term>Wisdom --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62730:1"/>
+            <pb facs="tcp:62730:1" rendition="simple:additions"/>
+            <p>THE EXCELLENCY OF WISDOM, Diſcloſing it ſelf in <hi>The Virtues of a good Life:</hi> RECOMMENDED To the Natives of <hi>Warwick-ſhire,</hi> IN A SERMON PREACHED To them on their <hi>Anniverſary Feaſt-Day,</hi> in <hi>London, Nov.</hi> 30. 1675. By <hi>THOMAS WILLIS,</hi> D. D. Vicar of <hi>Kingſton</hi> upon <hi>Thames,</hi> and one of His <hi>MAJESTIES</hi> Chaplains in Ordinary.</p>
+            <q>Who is a wiſe man, and endued with Knowledge amongſt you? Let him ſhew out of a good Converſation his Works, with Meekneſs of Wiſdom.
+<bibl>
+                  <hi>Jam. 3.13.</hi>
+               </bibl>
+            </q>
+            <q>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+<bibl>
+                  <hi>Iſid. Peluſ.</hi> l. <hi>4.</hi> Ep. <hi>174.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. M.</hi> for <hi>Abel Roper,</hi> at the <hi>Sun</hi> over againſt S<hi rend="sup">t</hi> 
+               <hi>Dunſtan</hi>'s Church in <hi>Fleet-ſtreet.</hi> 1676.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:62730:2"/>
+            <p>Imprimatur</p>
+            <p>Concio haec (cui titulus, <hi>The Excellency of Wiſdom.</hi>)</p>
+            <closer>
+               <signed>Reverend<hi rend="sup">mo</hi> D<hi rend="sup">no</hi> Ar<g ref="char:EOLhyphen"/>chiepiſcopo Cant. à Sacris Domeſticis <hi>Geo. Hooper.</hi>
+               </signed>
+               <dateline>Ex Aedibus <hi>Lambethanis,</hi> 
+                  <date>Decemb. 7. 1675.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>PAge</hi> 4. <hi>line</hi> 3. for the, <hi>read,</hi> your Endeavours. <hi>p.</hi> 8. <hi>l.</hi> 10. <hi>for</hi> men, <hi>r.</hi> man <hi>p.</hi> 11. <hi>l.</hi> 24. <hi>r.</hi> Uſefulneſs. <hi>p.</hi> 19. <hi>Marg. for</hi> Famb. <hi>r.</hi> Jamb. <hi>and for</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>r.</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>p.</hi> 24. <hi>l.</hi> 8. <hi>for</hi> of the, <hi>r.</hi> of Wiſdom <hi>p.</hi> 31. <hi>l. ult. for</hi> deſerve, <hi>r.</hi> diſcern.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dedication">
+            <pb facs="tcp:62730:2"/>
+            <head>TO THE RIGHT HONOURABLE <hi>ROBERT</hi> Lord <hi>BROOK, Baron of</hi> Beauchampſcourt <hi>in</hi> War<g ref="char:EOLhyphen"/>wickſhire, <hi>and Lord Lievtenant of the County of</hi> Stafford.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>WISDOM and VIRTUE, which oft wait at the <hi>Gate of</hi> HONOUR, and hardly find admittance, do here preſent themſelves before Your Lordſhip, in Hopes of that <hi>Noble Entertain<g ref="char:EOLhyphen"/>ment,</hi> which is wont to be given, by <hi>Perſons of Honour,</hi> to their <hi>Neareſt Allies.</hi> They are never repulſt by any without <hi>Wrong</hi> and <hi>Diſgrace</hi> to themſelves; nor by any entertain'd,
+<pb facs="tcp:62730:3"/>with a due Regard, without an Ad<g ref="char:EOLhyphen"/>dition to their <hi>Honour and Happi<g ref="char:EOLhyphen"/>neſs.</hi> The Perſon, by whoſe Hand they are brought in this <hi>humble Dreſs</hi> into Your Preſence, beggs the Pardon of his Rudeneſs in this Approach, and leaving theſe <hi>Excel<g ref="char:EOLhyphen"/>lencies</hi> to Your Lordſhips Enter<g ref="char:EOLhyphen"/>tainment, inſtantly withdraws him<g ref="char:EOLhyphen"/>ſelf to his due diſtance, and waits (with <hi>Mordecai, at the Gate</hi>) in Hope, that having preſented theſe <hi>Virgin-Beauties</hi> before Your judi<g ref="char:EOLhyphen"/>cious Eye, they will appear ſo a<g ref="char:EOLhyphen"/>greeable to Your <hi>Noble Mind,</hi> that they will preſently obtain that entire <hi>Affection and Eſteem,</hi> which will facilitate their Admiſſion into ſo <hi>indiſſoluble an <g ref="char:V">Ʋ</g>nion,</hi> as ſhall for ever exclude the Fear or Suſpicion of a <hi>Divorce.</hi> And by this inno<g ref="char:EOLhyphen"/>cent
+<pb facs="tcp:62730:3"/>and honourable <hi>Polygamy,</hi> may Your Lordſhip be <hi>Bleſſed</hi> with a <hi>Beautiful-Offſpring</hi> of ſuch excellent and amiable <hi>Virtues,</hi> as may ſup<g ref="char:EOLhyphen"/>port the <hi>Honour of Your Name,</hi> and be the growing <hi>Glory of Your Houſe.</hi>
+            </p>
+            <p>Theſe Excellencies, <hi>Wiſdom and Virtue,</hi> which I have here preſent<g ref="char:EOLhyphen"/>ed before. Your Lordſhip, are of more than <hi>Noble Deſcent,</hi> of Di<g ref="char:EOLhyphen"/>vine Original, the <hi>Offſpring of the uncreated Goodneſs.</hi> But I fear that (as ſometimes the <hi>incarnate Wiſdom of God</hi>) they find but little Re<g ref="char:EOLhyphen"/>gard amongſt the greater Part of the Sons of Men. And therefore that their <hi>Reception</hi> (particularly in our own Country, for its ſingu<g ref="char:EOLhyphen"/>lar Honour and Advantage) may be anſwerable to their <hi>Dignity,</hi> I
+<pb facs="tcp:62730:4"/>have endeavour'd to unvail their ex<g ref="char:EOLhyphen"/>cellent <hi>Beauty,</hi> and manifeſt their ſingular <hi>
+                  <g ref="char:V">Ʋ</g>ſefulneſs,</hi> in the follow<g ref="char:EOLhyphen"/>ing Diſcourſe; which (though its <hi>Meanneſs</hi> makes it even afraid of Appearance, yet imboldned by the Aſſurance of the <hi>Goodneſs of the Deſign,</hi> and <hi>Seaſonableneſs of the Endeavour</hi>) I do here humbly offer to Your Lordſhips Hand.</p>
+            <p>To accept ſo <hi>ſmall a Preſent</hi> from ſo mean a Perſon, will be an <hi>Act of Humility;</hi> to become a <hi>Great Example</hi> of that Excellency which is here commended to all men, will be a <hi>ſingular Glory.</hi> If the <hi>Doctrine</hi> delivered in this Diſ<g ref="char:EOLhyphen"/>courſe, be commended to our Coun<g ref="char:EOLhyphen"/>treymen, by ſo <hi>Illuſtrious an Exam<g ref="char:EOLhyphen"/>ple,</hi> 'twill certainly be more pow<g ref="char:EOLhyphen"/>erfully operative and influential.
+<pb facs="tcp:62730:4"/>So ſhall Your Lordſhip ſhine as a <hi>Great Light</hi> among many leſſer Stars: neither ſhall your brighter Glory ſuffer an <hi>Eclipſe</hi> in Death it ſelf, but ſhine in a higher Orb amongſt thoſe fair Lights, which adorn thoſe glorious Manſions; wherein the <hi>Soveraign Goodneſs</hi> reigns in eternal Glory.</p>
+            <p>May <hi>Wiſdom</hi> ſo conduct Your Lordſhip in all Your Affairs, and <hi>Virtue</hi> ſo adorn and beautify all Your Actions, that You may be the <hi>Honour of Your Houſe, and Ornament of Your Countrey;</hi> that having planted <hi>Virtues</hi> to a hap<g ref="char:EOLhyphen"/>py thriving on Earth, and ga<g ref="char:EOLhyphen"/>thered their pleaſant Fruits in <hi>Praiſes and Proſperities,</hi> you may at length be carried up in Tri<g ref="char:EOLhyphen"/>umph, by glorious Angels, into
+<pb facs="tcp:62730:5"/>Heaven, there to be crown'd with <hi>immortal Glories,</hi> in the Kingdom of God. May the Splendour of Your Lordſhips <hi>Virtue and Goodneſs</hi> be ſo great, that the <hi>Spreading Raies</hi> thereof may co<g ref="char:EOLhyphen"/>ver your whole Countrey, and extend their <hi>exhilarating Light</hi> even to the remote Obſcurities of,</p>
+            <closer>
+               <salute>My Lord, </salute>
+               <signed>Your Lordſhips moſt Humble, and moſt Obſequious Servant, THO. WILLIS.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:62730:5"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THough the following Diſcourſe be directed to the <hi>Natives of one Country,</hi> the ſub<g ref="char:EOLhyphen"/>ject of it is the <hi>Great Concern</hi> of all men. All men do certainly Deſire to be <hi>Happy:</hi> but no man can poſſibly be ſo, unleſs he become truly <hi>Wiſe.</hi> Now the certain <hi>Way and Means</hi> to acquire Wiſ<g ref="char:EOLhyphen"/>dom, and then to improve it in the Exerciſe of <hi>Religion and Virtue,</hi> for the Attainment of <hi>true Happineſs,</hi> is preſcrib'd in the <hi>following Diſ<g ref="char:EOLhyphen"/>courſe.</hi>
+            </p>
+            <p>Man is a noble piece of <hi>active Earth,</hi> being animated with that <hi>immortal Fire,</hi> which at firſt came down from Heaven, and inſpirits him to thoſe Motions, which conduce to the Preſerva<g ref="char:EOLhyphen"/>tion and Perfection of his Being. The Soul of man is a Spark of <hi>Heavenly Fire,</hi> which at firſt was kindled by the
+<note n="‖" place="margin">Gen. 2.7.</note> 
+               <hi>Breath of God,</hi> and is a Principle of thoſe Actions, whereby he diſcovers the Excellency of his Nature, and Nobleneſs of his Original. In this <hi>little Spark,</hi> incloſed by the
+<note n="*" place="margin">Pſal. 119.73.</note> Hand of God, in a
+<note n="‖" place="margin">Pſal. 139.14.</note> 
+               <hi>curious Frame,</hi> a Body fit<g ref="char:EOLhyphen"/>ly organiz'd for Action, there is both <hi>Light and Heat;</hi> Light for apprehenſion, and Heat for Acti<g ref="char:EOLhyphen"/>on, God hath given to man as well an <hi>apprehen<g ref="char:EOLhyphen"/>ſive Minde,</hi> as an <hi>active Spirit.</hi> Hereupon, if
+<pb facs="tcp:62730:6"/>he act according to his Nature and Being, upon his Apprehenſion of the Excellency of things, he is earneſt in the Purſuit of the moſt excellent At<g ref="char:EOLhyphen"/>tainments: Such are thoſe <hi>Virtues,</hi> which are apt to adorn his Mind and Life, and tend to exalt him to a State of Honour and Happineſs. This is the great Work of every man in the World. And therefore, O man, whoſoever thou art, open thine Eyes, and behold the things which are ex<g ref="char:EOLhyphen"/>cellent, and then earneſtly endeavour the Acqui<g ref="char:EOLhyphen"/>ſition of them. Amongſt theſe <hi>Excellent At<g ref="char:EOLhyphen"/>tainments,</hi> wouldeſt thou be inform'd what is moſt excellent, and ſo moſt worthy of thy greateſt Diligence in the Purſuit? To this thou art di<g ref="char:EOLhyphen"/>rected in the following Diſcourſe by an infallible Oracle, delivered in theſe words,
+<note n="*" place="margin">Prov. 4.7.</note> 
+               <hi>Wiſdom is the Principal thing: therefore get Wiſdom, and with all thy getting get Underſtanding.</hi>
+            </p>
+            <p>Wiſdom is indeed the <hi>principal Excellency,</hi> as being the moſt pleaſant, the moſt profitable, and the moſt ſatisfactory of all Attainments: <hi>Wiſdom</hi> (ſaith the Divine Philoſopher) <hi>will make a man proſperous and happy in all things</hi>
+               <note n="‖" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Plat. in Euthyd.</note>. And ſaith the Kingly Preacher, <hi>Wiſdom is a Defence, and Money is a Defence: but the ex<g ref="char:EOLhyphen"/>cellency of Knowledge is, that Wiſdom giveth Life to them that have it</hi>
+               <note n="*" place="margin">Eccl. 7.12.</note>. 'Tis Wiſdom that will give you an excellency above other men, and make you no leſs Happy than the Angels of God.</p>
+            <p>But who knowes the <hi>Path</hi> of Wiſdom, or the <hi>Place</hi> of her Habitation? Though you ſhould digg to the Centre of the Earth, or dive to the
+<pb facs="tcp:62730:6"/>
+               <hi>Bottom of the Sea</hi>
+               <note n="‖" place="margin">Job 28.12, 13, 14.</note>, you could not find this in<g ref="char:EOLhyphen"/>eſtimable Treaſure: though you ſhould aſcend to the Stars of Heaven, you could not reach to the <hi>Throne of Wiſdom.</hi> Wiſdom ſets her Throne above the Stars, and raigns in that <hi>Region of Light,</hi> wherein <hi>God himſelf dwells</hi>
+               <note n="*" place="margin">Prov. 3.22.</note>. But at his Appointment ſhe deſcends from her high Throne, and makes the Heart of man her humble Seat. But then man muſt make his Approaches to God, in the Exerciſes of <hi>Religion and Piety.</hi> In theſe Paths you ſhall arrive at the <hi>Throne of Wiſdom,</hi> and ſhe will ſet upon your Head a Roy<g ref="char:EOLhyphen"/>al Diadem of Beauty, a reſplendent <hi>Crown of Glory.</hi>
+            </p>
+            <p>Wiſdom cannot poſſibly be ſeparated from <hi>Pie<g ref="char:EOLhyphen"/>ty,</hi> and the Virtues of a <hi>good Life.</hi> For he that apprehends God to be the higheſt Being and chief<g ref="char:EOLhyphen"/>eſt Good, if he do not honour and obey him, that he may at length attain that Happineſs, which lies in the full Fruition of him, is not wiſe; yea, he is guilty of the greateſt Folly, in that he neg<g ref="char:EOLhyphen"/>lects the onely Means, by which he might attain the higheſt Happineſs. The Sun then may as ſoon be diſrob'd of his Beams, as Wiſdom can be di<g ref="char:EOLhyphen"/>veſted of the Raies of <hi>Religion and Sanctity,</hi> which crown it, in all Conditions, with a con<g ref="char:EOLhyphen"/>ſpicuous Glory.</p>
+            <p>Certainly, <hi>Atheiſm and Irreligion, Sin and Wick<g ref="char:EOLhyphen"/>edneſs</hi> (as I have endeavour'd, though but in few words, to evince in the following Sermon) <hi>is the greateſt Folly</hi> in the World. <hi>It is God that made us, and not we our ſelves</hi>
+               <note n="‖" place="margin">Pſal. 100.3.</note>, and <hi>in him we live and move, and have our being</hi>
+               <note n="*" place="margin">Acts 17.28.</note>, and yet <hi>The Fool
+<pb facs="tcp:62730:7"/>hath ſaid in his Heart, There is no God</hi>
+               <note n="‖" place="margin">Pſal. 14.1.</note>. How great, how ſtrange is this Folly! <hi>The wrath of God is reveal'd from Heaven</hi>
+               <note n="*" place="margin">Rom. 1.18.</note>, againſt the ſins of men, in various Plagues and Puniſhments; and yet <hi>Fools make a Mock at Sin
+<note n="‖" place="margin">Prov. 14.9.</note>. As a mad man, who caſteth Fire-brands, Arrows and Death:</hi> ſo is he who throwes out Oaths, Curſes, and Blaſ<g ref="char:EOLhyphen"/>phemies, and ſaith, <hi>Am not I in Sport</hi>
+               <note n="*" place="margin">Prov. 27.18.</note>? Theſe men play with Lightning, and mock the mighty Thunder, and in a proud Scorn, open their nak<g ref="char:EOLhyphen"/>ed Breaſts to the flaming Arrowes of the Al<g ref="char:EOLhyphen"/>mighty. They deride <hi>Religion,</hi> ſcoff at <hi>Devo<g ref="char:EOLhyphen"/>tion,</hi> laugh and jeer the Virtues of <hi>Temperance, Sobriety, Chaſtity</hi> out of Countenance. Theſe men come forth upon the <hi>Stage,</hi> and ſo demean them<g ref="char:EOLhyphen"/>ſelves, as if they accounted it <hi>the higheſt Wiſ<g ref="char:EOLhyphen"/>dom to act the greateſt Follies,</hi> in the Sight of God, and Angels, and Men. For they ſtand up<g ref="char:EOLhyphen"/>on their Heads and Shake their Heels againſt Heaven, They bear themſelves upon the <hi>Strength of their Reaſon</hi> and Parts, in <hi>the Contempt of Religion and Piety;</hi> as if they accounted it a piece of Gallantry to dare Heaven by the Inſo<g ref="char:EOLhyphen"/>lency of their Crimes, and to awake
+<note n="‖" place="margin">1 Pet. 2.3.</note> 
+               <hi>ſlumbring</hi> Vengeance to their own Deſtruction. Now are not theſe men guilty of great Folly and Mad<g ref="char:EOLhyphen"/>neſs? What Folly is it in a mortal man to lift up a <hi>Flag of Defiance</hi> againſt Almighty God! Shall a poor Worm that crawls in the Duſt, or Moth that frets a Garment, contend with a Man? Alas! he can inſtantly trample the Worm under his Feet, and crumble the Moth to Duſt with his Fingers. Greater is the Diſproportion which
+<pb facs="tcp:62730:7"/>a mortal man bears to the Mighty God. More eaſily can he turn the ſtrongeſt man into Duſt, and throw the ſtouteſt Sinner into Hell. A man therefore muſt <hi>waſh his Heart from Wickedneſs
+<note n="‖" place="margin">Eze. 4.14.</note>, and his Hands in Innocency</hi>
+               <note n="*" place="margin">Pſal. 26.6.</note>; he muſt repent of his Sins, and reform his Life, or elſe (though he ſhould be admir'd by all men for the <hi>Greatneſs of his Wit)</hi> he can never atain to the leaſt <hi>De<g ref="char:EOLhyphen"/>gree of true Wiſdom.</hi>
+            </p>
+            <p>Thus you ſee Impiety is utterly inconſiſtent with this Divine excellency. And therefore if you do deſire to become <hi>truly Wiſe,</hi> you muſt reſolve to become <hi>really Religious.</hi> But then when you have attain'd any Degree of Wiſdom, let it be your chief Care to <hi>retain</hi> it, as the moſt excellent Poſſeſſion, the richeſt Treaſure in the World. There is a certain
+<note n="*" place="margin">Ex God. Arab. Pin.</note> Tradition, that <hi>Solomon</hi> had a Ring, which while he preſerved (as <hi>Sam<g ref="char:EOLhyphen"/>ſon</hi> his Hair) he retain'd a ſingular Excellency of Wiſdom above all other men. But being over amorous towards certain Women, they robb'd him at once of a double Treaſure, his <hi>Ring and Wiſdom.</hi> Wiſdom is an <hi>Excellency of the Mind:</hi> 'tis not ſo much darkned by any thing, as by the <hi>Luſt of the Fleſh.</hi> The Suns Glories are obſcur'd by the Foggs that riſe from the Earth: and the <hi>Lights of Wiſdom</hi> are obfuſcat<g ref="char:EOLhyphen"/>ed, and at length extinguiſhed, by an Indul<g ref="char:EOLhyphen"/>gence of ſenſual Appetites and Inclinations. And therefore be careful (as becomes <hi>Citizens of Heaven,</hi> who are <hi>Pilgrims and Strangers on Earth) to abſtain from thoſe fleſhly Luſts, which war againſt the Soul</hi>
+               <note n="‖" place="margin">1 Pet. 2.11.</note>. Do not for the baſe and
+<pb facs="tcp:62730:8"/>ſordid <hi>Pleaſure of Sin,</hi> hazard the Loſs of that Excellency, which is your Crown and Glory. Live in the ſerious Exerciſe of <hi>Solid Piety,</hi> and all Chriſtian Virtues, here on Earth, and you ſhall at length be admitted to the Participation of <hi>Everlaſting Pleaſures,</hi> in the Preſence of God, in Heaven. That no man, who ſhall peruſe theſe Lines, may fall ſhort of this Felicity, this <hi>Diſ<g ref="char:EOLhyphen"/>courſe of Wiſdom,</hi> as a Lamp lighted from the Sun, is here held forth by the Hand of</p>
+            <closer>
+               <dateline>
+                  <hi>London, <date>Dec. 7. 1675.</date>
+                  </hi>
+               </dateline>
+               <signed>
+                  <hi>A Servant of Him who is the Saviour of men,</hi> THO. WILLIS.</signed>
+            </closer>
+         </div>
+         <div type="sermon">
+            <pb n="1" facs="tcp:62730:8"/>
+            <head>THE EXCELLENCY OF WISDOM, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROV. IV. 7, 8, 9.</hi>
+                  </bibl>
+                  <p>
+                     <hi>VII.</hi> Wiſdom is the principal thing, there<g ref="char:EOLhyphen"/>fore get Wiſdom: and with all thy get<g ref="char:EOLhyphen"/>ting get <g ref="char:V">Ʋ</g>nderſtanding.</p>
+                  <p>
+                     <hi>VIII.</hi> Exalt her, and ſhe ſhall promote thee: ſhe ſhall bring thee to Honour, when thou doſt embrace her.</p>
+                  <p>
+                     <hi>IX.</hi> She ſhall give to thine Head an Orna<g ref="char:EOLhyphen"/>ment of Grace: a Crown of Glory ſhall ſhe deliver to thee.</p>
+               </q>
+            </epigraph>
+            <p>GOD is the Beginning and End of all Things. With Him (as it be<g ref="char:EOLhyphen"/>comes us) we begin this Day: to Him, and to his Glory, as our ul<g ref="char:EOLhyphen"/>timate End, it behoves us to di<g ref="char:EOLhyphen"/>rect the Actions of this Day, and of our whole Life, that in him, when Time ſhall be no more, we may be moſt Bleſſed for ever.</p>
+            <p>To God we owe our Being, who gave us our Birth in a good Land, and in a pleaſant Place,
+<pb n="2" facs="tcp:62730:9"/>in the ſame Country, <hi>the Eden-of England;</hi> and thence transferr'd us, for our better Being, in<g ref="char:EOLhyphen"/>to the Great City of the Land, which by its ſud<g ref="char:EOLhyphen"/>den Riſe, in ſo much Splendour, from its wo<g ref="char:EOLhyphen"/>ful Ruines, is become <hi>the Wonder of the World.</hi> To Him give we the Glory of our Being and Brotherhood, the Praiſe of all the Bleſſings which contribute to our preſent Well-being, and encourage our Hopes of future Bleſſed<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>This is our Work, this our Duty at this Time, and your appearance (my much Honoured and Beloved Countrimen) in this Place, is a viſible Pledg of your Readineſs and Reſolution to per<g ref="char:EOLhyphen"/>form it. For that ye may <hi>give unto God the Glo<g ref="char:EOLhyphen"/>ry due unto his Name,</hi> ye are this Day come unto his Houſe, and are here ready to hearken to his <hi>Holy Oracles,</hi> that ye may be inform'd, what is moſt excellent, moſt acceptable to Him, and moſt honourable for your ſelves, in the Diſcharge of your Duty.</p>
+            <p>Many excellent things have been recommend<g ref="char:EOLhyphen"/>ed to you by the Miniſters of his Holy Myſte<g ref="char:EOLhyphen"/>ries upon the like Occaſion, who have all de<g ref="char:EOLhyphen"/>ſign'd your Advance in Virtue, that ye might become excellent Perſons, and truly Honour<g ref="char:EOLhyphen"/>able in the Eye of the World, and in the ſight of God himſelf. All that have ſpoken unto you in the Name of God (as thoſe three young men, who contended for the Glory of uttering the wiſeſt Sentence before <hi>K. Darius</hi>
+               <note n="*" place="margin">Eſdr. 3.</note>) have endea<g ref="char:EOLhyphen"/>voured to recommend to you that Virtue, which would render you the <hi>Worthies</hi> of your
+<pb n="3" facs="tcp:62730:9"/>Country, the moſt accompliſht Perſons for Ex<g ref="char:EOLhyphen"/>cellency and Goodneſs. After them all I come forth this Day, and tell your every one from the Mouth of the Lord, <hi>Wiſdom is the principal thing: therefore,</hi> &amp;c. Here's,</p>
+            <p n="1">I. <hi>An Encomium of Wiſdom;</hi> She is commend<g ref="char:EOLhyphen"/>ed to us as the moſt excellent of all things; <hi>Wiſdom is the principal thing.</hi> Dull Mortals! Degenerate Mankind! Do men diſcern the Glit<g ref="char:EOLhyphen"/>ter of Gold, the ſparkling Luſtre of Gems, the Beauty and Sweetneſs of Gain, as one of the faireſt Flowers in the Worlds Garden, and can they not diſcern the <hi>Excellency of Wiſdom,</hi> without a Verbal Encomium? Are things brought to that paſs, that ſhe muſt bring her <hi>Letters of Commendation</hi> with her from Hea<g ref="char:EOLhyphen"/>ven, or ſhe can hardly find Entertainment a<g ref="char:EOLhyphen"/>mongſt men upon Earth? Muſt ſhe have her Herald go before her to prepare her Way, by proclaiming her Excellency? However now we are utterly inexcuſable if we do not give her an agreeable Entertainment, when we are in<g ref="char:EOLhyphen"/>form'd of her Quality, and told ſhe is <hi>the prin<g ref="char:EOLhyphen"/>cipal thing,</hi> ſhe holds the Principality amongſt thoſe Virtues, that ennoble, enrich, and adorn the Mind of man.</p>
+            <p n="2">II. <hi>An earneſt Perſwaſion,</hi> backt with Argu<g ref="char:EOLhyphen"/>ments, to endeavour the Acquiſition and Im<g ref="char:EOLhyphen"/>provement of this Excellent Virtue; <hi>Therefore get Wiſdom;—Exalt her, and ſhe ſhall promote thee.</hi>—This is the Counſel and Advice of the Holieſt of Kings, <hi>David,</hi> recommended to us by the <hi>Wiſeſt of Men,</hi> Solomon. 'Tis to
+<pb n="4" facs="tcp:62730:10"/>a threefold Act; 1. to Acquire, 2. Exalt, and 3. Embrace Wiſdom.</p>
+            <p n="1">1. To be diligent in the endeavours for the Acquiſition of Wiſdom; <hi>Therefore get Wiſdom, and with all thy getting get <g ref="char:V">Ʋ</g>nderſtanding,</hi> i.e. make it thy chief Deſign and conſtant En<g ref="char:EOLhyphen"/>deavour, who purſueſt any Excellency, any Advantage on Earth, to get Wiſdom, as that which is moſt excellent and advantageous.</p>
+            <p n="2">2. To give her the Preheminence in the Go<g ref="char:EOLhyphen"/>vernment of all the Actions of our Life. Which Advice is backt with an Argument, a Propo<g ref="char:EOLhyphen"/>ſal and Aſſurance of Honour and Eſtimation, which ſhall accrue to a man thereby; <hi>Exalt her, and ſhe ſhall promote thee.</hi> Wiſdom ſeems to ſay to men, what the God of Wiſdom ſaid to <hi>Eli; Them that honour me I will honour: and they that deſpiſe me ſhall be lightly eſteem<g ref="char:EOLhyphen"/>ed</hi>
+               <note n="‖" place="margin">1 Sam. 2.30.</note>.</p>
+            <p n="3">3. To entertain her with the greateſt Kind<g ref="char:EOLhyphen"/>neſs, Familiarity and Endearment that may be; to take her into the Arms and Boſom-embraces of the Soul. To this, Honour and Ornament is aſſur'd, Glory and Renown. <hi>She ſhall bring thee to Honour when thou doſt embrace her. She ſhall give to thine Head an Ornament of Grace: a Crown of Glory ſhall ſhe deliver to thee.</hi> She ſhall procure to thee that Praiſe and Eſti<g ref="char:EOLhyphen"/>mation, which will be to thee as a graceful Or<g ref="char:EOLhyphen"/>nament, as a glorious Crown. Man is the King of all Creatures; the wiſe man is a King a<g ref="char:EOLhyphen"/>mongſt men, and the Glory of Wiſdom is his Crown. 'Tis Wiſdom will incircle thee with
+<pb n="5" facs="tcp:62730:10"/>bright Glories on Earth, and entitle thee to Ho<g ref="char:EOLhyphen"/>nour and Happineſs in Heaven.</p>
+            <p>And now behold I have ſet a <hi>noble Prize</hi> be<g ref="char:EOLhyphen"/>fore you, and would fain perſwade you to a <hi>generous Conteſt</hi> for the Attainment of it. The Conteſt wherein I would engage you, is <hi>to ex<g ref="char:EOLhyphen"/>cell in Wiſdom:</hi> the Prize is <hi>an Ornament of Grace, a Crown of Glory.</hi>
+            </p>
+            <p>To make plain the way before you, I ſhall
+<list>
+                  <item>1. Enquire what Wiſdom is.</item>
+                  <item>2. Shew you wherein the excellency of this Acquiſition lies.</item>
+                  <item>3. Make it plainly appear that this excel<g ref="char:EOLhyphen"/>lent Endowment is attainable, and ſhew you by what Means.</item>
+               </list>
+            </p>
+            <p>And then I ſhall endeavour to perſwade you every one to Diligence in the Uſe of the Means for the Attainment of ſo excellent a Virtue. All with a Deſign to advance you to ſuch a Degree of Excellency and Goodneſs, that ye may be <hi>the Glory of your Native Country, and the Or<g ref="char:EOLhyphen"/>nament of this great City,</hi> adding to the Splen<g ref="char:EOLhyphen"/>dour of its Riches and Honour, the Luſtre of Wiſdom and Virtue.</p>
+            <p>This is the Work which now lies before us, in the Management whereof I am oblig'd,</p>
+            <p n="1">I. To enquire, and to give you an Accompt what Wiſdom is. By the ancient Philoſophers (who are follow'd by the Greek Fathers) it is thus defin'd;
+<note n="‖" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Alcin. de Dogm. Plat. Clem. Alex. Paed.</hi> l. 2. c. 2. <hi>Bafil. Sapientia eſt retum divinarum &amp; hu<g ref="char:EOLhyphen"/>manarum, cauſarum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> quibus hae res continentur ſcientia.</hi> Cic. l. 2. Offic.</note> 
+               <hi>Wiſdom is the Knowledge of
+<pb n="6" facs="tcp:62730:11"/>the Nature and Cauſes, both of things Divine and Humane.</hi> Or,
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ariſtot.</hi>
+               </note> 
+               <hi>'Tis the <g ref="char:V">Ʋ</g>nderſtanding and Knowledge of the moſt excellent things.</hi> But this is but an excellent kind of Speculative <hi>Know<g ref="char:EOLhyphen"/>ledge,</hi> which may be in the Mind of a man ut<g ref="char:EOLhyphen"/>terly deſtitute of <hi>true Wiſdom.</hi> Wiſdom is cer<g ref="char:EOLhyphen"/>tainly <hi>a practick Excellency,</hi> a Virtue that di<g ref="char:EOLhyphen"/>rects and influences our Actions, to the Attain<g ref="char:EOLhyphen"/>ment of the moſt excellent Ends. It's as the <hi>Light</hi> of the Sun, which is accompanied with that <hi>Influence</hi> which fructifieth the Earth.</p>
+            <p>
+               <hi>Wiſdom then is an excellent, Energetical Virtue of the Mind of man, whereby, upon a clear Ap<g ref="char:EOLhyphen"/>prehenſion and a right Judgment of things, the whole Soul is carried out, in a well govern'd Order, in an earneſt and conſtant Purſuit of the moſt excellent Attainments.</hi>
+            </p>
+            <p>In this Deſcription I have given you <hi>the live<g ref="char:EOLhyphen"/>lieſt Pourtraicture</hi> that I can of this excellent Virtue. Be pleaſed to peruſe her ſeveral Linea<g ref="char:EOLhyphen"/>ments, and while I unvail her amiable Excel<g ref="char:EOLhyphen"/>lencies, keep your Eyes ſixt upon her Beauty, till you find her Image impreſt upon your Soul.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> She is <hi>an excellent Virtue of the Mind of man.</hi>Man is the nobleſt Creature in the Univerſe; the Soul is the nobleſt Part of man; the Under<g ref="char:EOLhyphen"/>ſtanding is the nobleſt Power of the Soul; and Wiſdom is the nobleſt Virtue of that Pow<g ref="char:EOLhyphen"/>er, the moſt beautiful Embelliſhment of the Mind of man.</p>
+            <p>Other Virtues are for the moſt part ſeated in <hi>the Will,</hi> and their Office is the Moderation and
+<pb n="7" facs="tcp:62730:11"/>Government of all the inferiour Appetites and Affections: But Wiſdom has her Throne in the higheſt Place, is ſeated in the nobleſt Pow<g ref="char:EOLhyphen"/>er of the Soul, the Mind or <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> of man, and thence ſends forth her Influence upon all the Powers and Motions of the Soul, the Acti<g ref="char:EOLhyphen"/>ons and Intereſts of the whole Life. There ſhe ſits as a Queen, and is attended with an ho<g ref="char:EOLhyphen"/>nourable <hi>Train</hi> of excellent Virtues. <hi>Temperance</hi> ſtands on her right Hand, and <hi>Patience</hi> on her left. <hi>Fortitude, Juſtice, Clemency and Good<g ref="char:EOLhyphen"/>neſs</hi> ſtand before her Face, and <hi>Humility</hi> ſits at her feet, and when ever ſhe ſtirs abroad, <hi>Con<g ref="char:EOLhyphen"/>tentment</hi> attends all her Motions. Thus ſhe is truly honourable in her Attendants, and in all her Appearances, and makes him that en<g ref="char:EOLhyphen"/>tertains her honourable and happy.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> She is <hi>an Energetical Virtue,</hi>powerfully ope<g ref="char:EOLhyphen"/>rative. She gives not only a directive Light, but ſheds forth alſo ſuch a mighty Influence, as makes the Motions of the Soul and Actions of the Life agreeable.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> She proceeds upon a clear Apprehenſion and right <hi>Judgment of things.</hi>For <hi>the wiſe mans Eyes are in his Head: but the Fool walketh in Darkneſs</hi>
+               <note n="‖" place="margin">Eccl. 2.14.</note>.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Hereby <hi>the whole Soul is carried out,in a well govern'd Order, in an earneſt and conſtant Purſuit of the moſt excellent Attainments.</hi> There is a threefold Act of Wiſdom, <hi>viz.</hi>
+            </p>
+            <p n="1">1. To propoſe the moſt <hi>excellent End;</hi> as the Glory of God, and mans Good and Hap<g ref="char:EOLhyphen"/>pineſs.</p>
+            <pb n="8" facs="tcp:62730:12"/>
+            <p n="2">2. To elect the <hi>beſt Means,</hi> which are moſt proper and powerfully conducible thereunto.</p>
+            <p n="3">3. To engage the moſt <hi>earneſt Endeavours,</hi> in the diligent Uſe of theſe Means, for the Attainment of this End.</p>
+            <p>And thus ye have ſeen what Wiſdom is: Come we now to conſider,</p>
+            <p n="2">II. Wherein the Excellency of Wiſdom lies. The Excellency of things adventitious to the Eſſence or Being of men, lies in their Uſeful<g ref="char:EOLhyphen"/>neſs, or Subſerviencie to his Well-being and Bleſſedneſs. Thoſe things which give him Sup<g ref="char:EOLhyphen"/>port, Defence, and Luſtre in the Eyes of the World, are commonly accounted excellent. Such are <hi>Riches, Power and Honour. Riches</hi> are a Support, <hi>Power</hi> a Defence, <hi>Honour</hi> an Ornament to men, giving a Luſtre to their Per<g ref="char:EOLhyphen"/>ſons and Actions. Theſe, men are wont to pur<g ref="char:EOLhyphen"/>ſue with much Earneſtneſs, as moſt <hi>excellent Attainments,</hi> ſeeing they render them as <hi>Princes amongſt the Poor, as Gods among men.</hi>
+            </p>
+            <p>But now the Excellency of Wiſdom, which gives it a Preheminence above all theſe extrin<g ref="char:EOLhyphen"/>ſick Acceſſions, lies in this, that it conduces to the Perfection of the Nature of man, advances him to a Similitude to the moſt high God, and leads him to the Fruition of the chiefeſt Good, and ſo gives him Poſſeſſion of the higheſt Hap<g ref="char:EOLhyphen"/>pineſs. The moſt ſplendid things on Earth are oft times given to thoſe Sinners, who ſhall ne<g ref="char:EOLhyphen"/>ver ſee Gods Face in Heaven: but true Wiſ<g ref="char:EOLhyphen"/>dom is the <hi>Beatifick Virtue</hi> of the Saints, which leads them, by the Actions of a good Life, to
+<pb n="9" facs="tcp:62730:12"/>
+               <hi>the Beatifick Viſion of God</hi> in Glory. Though ſecular Advantages then are ſought for with great Earneſtneſs, and eſteem'd Excellent, <hi>Wiſ<g ref="char:EOLhyphen"/>dom is the principal thing,</hi> 'tis much more ex<g ref="char:EOLhyphen"/>cellent.</p>
+            <p n="1">1. <hi>Wiſdom is better than Riches</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Menand.</hi>
+               </note>. Riches are a comfortable Acceſſory to the Animal Life; Wiſdom makes a man almoſt equal with An<g ref="char:EOLhyphen"/>gelical Beings. Hence 'twas ſaid of David, <hi>My Lord the King is as an Angel of God</hi>
+               <note n="‖" place="margin">2 Sam. 18.27. &amp; 14.17, 20.</note>. Now what's the Life of a Beaſt to the active Excellency of an Angel? Certainly a Wiſe man, though with<g ref="char:EOLhyphen"/>out Wealth, does as much excel a Rich man, without Wiſdom, as an Angel does an Aſs laden with Gold. Thou haſt Wiſdom and wanteſt Riches; another has Riches and wants Wiſdom. Now tell me, Canſt thou be content to barter Conditions with him; to part with thy Wiſ<g ref="char:EOLhyphen"/>dom to be poſſeſt of his Wealth? No, 'tis im<g ref="char:EOLhyphen"/>poſſible. For he is already a Fool, who can conſent to ſuch an Exchange. This muſt needs extort a Confeſſion from every one of you, that Wiſdom is better than Riches, which yet is the <hi>golden Oyl,</hi> which ſets all the Wheels of Acti<g ref="char:EOLhyphen"/>on throughout the whole World in Moti<g ref="char:EOLhyphen"/>on.</p>
+            <p>
+               <hi>There is not certainly a more noble Poſſeſſi<g ref="char:EOLhyphen"/>on than that of Wiſdom</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Men.</hi>
+               </note>. Riches are but an Addition to the outward Eſtate: Wiſdom is the Eunoblement of the Mind of man. The one is but as a <hi>Prop</hi> ſet to a ruinous Houſe: the other as a <hi>royal Diadem</hi> ſet on the Head of a Soveraign Prince. The Excellency of a thing
+<pb n="10" facs="tcp:62730:13"/>may be eſtimated by the Loſs or Deprivation. Now tell me, to which would ye rather con<g ref="char:EOLhyphen"/>ſent; To have an Eye pluckt out of your Head, or to have a Skirt cut off from your Garment? Wiſdom is as <hi>the Eye of mans Soul,</hi> whereas Riches, as <hi>a Skirt of a Garment,</hi> are but an Addition to his Eſtate, which oft-times are more a Burden than an Ornament.</p>
+            <p>Certainly the greateſt Excellency and Praiſe of Riches is this, that they are good <hi>Inſtru<g ref="char:EOLhyphen"/>ments of Virtue.</hi> Their Excellency then lies in their Uſe, to which they neither are, nor can be apply'd without the Direction of Wiſdom. Wiſdom then is <hi>the Principal thing,</hi> to which Riches are ſubſervient, when they become the Means of Glory to God, or Good to men. <hi>How much better then is it to get Wiſdom than Gold? and to get <g ref="char:V">Ʋ</g>nderſtanding rather to be choſen than Silver
+<note n="‖" place="margin">Pro. 16.16.</note>?</hi> Yea <hi>Wiſdom</hi> (ſaith <hi>So<g ref="char:EOLhyphen"/>lomon</hi>) <hi>is better than Rubies; and all the things that may be deſired are not to be compared to it</hi>
+               <note n="*" place="margin">Prov. 8.11.</note>. And therefore,</p>
+            <p n="2">2. <hi>Wiſdom is to be prefer'd before Power.</hi> Pow<g ref="char:EOLhyphen"/>er, unleſs directed by Wiſdom, like <hi>the dread<g ref="char:EOLhyphen"/>ful Thunder,</hi> breaks all in pieces. As <hi>a Sword in a mad mans Hand,</hi> ſuch is great Power, which not being guided by Wiſdom, becomes the Inſtrument of Rage and Folly. Power with<g ref="char:EOLhyphen"/>out Wiſdom, is but as <hi>the ſtrength of a Beaſt,</hi> dangerous and deſtructive. Wiſdom in War is more Excellent than Power and ſtrength. <hi>A wiſe man</hi> (ſaith <hi>Solomon</hi>) <hi>ſcaleth the City of the Mighty</hi>
+               <note n="‖" place="margin">Prov. 21.22.</note>. Victory is ofter owing to <hi>a wiſe
+<pb n="11" facs="tcp:62730:13"/>Conduct,</hi> than the bruitiſh ſtrength of an un<g ref="char:EOLhyphen"/>govern'd Body of People.</p>
+            <p>Moreover, <hi>the Power of a Prince</hi> is his Au<g ref="char:EOLhyphen"/>thority for the Government of his People. This is a Splendid and Noble Thing, an Excellency worthy to be Crown'd with Honour: But yet even this muſt give place to Wiſdom, as the greater Excellency. <hi>Government</hi> is properly the direction of the actions of men to excellent ends for the Publick Good. Now hereunto two things are requiſite, <hi>Right and Skill,</hi> or an ability to do it: The former without the latter is altogether inſignificant and uſeleſs; the latter (when they are conjoyn'd) is the Luſtre and Glory of the former. Now the former, <hi>Right to Govern,</hi> is Authority; the latter, <hi>Skill to do it well,</hi> is Wiſdom. This then being the Praiſe and Glory of the other, as rendring it uſeful for the Publick Good, which is its only Excellency, is much more Excellent. For that which makes another thing excellent, muſt needs be more excellent it ſelf. If Power and Authority then do owe their Excellency and Uſe, fulneſs to Wiſdom, Wiſdom that applyes them to their proper ends, muſt needs be much more excellent. <hi>A wiſe man is better than a King,</hi>
+               <note n="‖" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> ſay the Hebrew Doctors; <hi>For</hi> (ſay they) <hi>if a wiſe man die, there is not preſently found a wiſe man to ſucceed him; but if a King die, there's not a man of Iſrael, but may be made a King:</hi> Yea, they have a bolder. Proverb in the praiſe of Wiſdom; <hi>Kings are the Judges of the Earth, but wiſe men are the Judges of Kings.</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+            </p>
+            <pb n="12" facs="tcp:62730:14"/>
+            <p n="3">3. <hi>Wiſdom excells Honour:</hi> Honour with<g ref="char:EOLhyphen"/>out Virtue is but <hi>an empty Title,</hi> but Wiſdom is a real Excellency, a rare endowment of the Mind of Man: Where there is Virtue to ſup<g ref="char:EOLhyphen"/>port Honour, there Honour is <hi>the luſtre of Vir<g ref="char:EOLhyphen"/>tue:</hi> But now Wiſdom is it ſelf a moſt excellent Virtue of the mind of Man; and therefore as much as the ſubſtance of Gold excells the ſhine, ſo much does Wiſdom excell Honour.</p>
+            <p>Honour is but <hi>the eſtimation of Excellency,</hi> or rather ſome <hi>extrinſick Teſtimony</hi> of that E<g ref="char:EOLhyphen"/>ſtimation: But Wiſdom is a real Excellency, which gives an <hi>intrinſick Worth</hi> and Value to the Mind of Man, and therefore is much to be preferr'd before that Honour which ſtands in ſome outward acknowledgement. What's a <hi>Gilded Title</hi> to a Noble Mind, or a little <hi>popu<g ref="char:EOLhyphen"/>lar Air,</hi> to that Excellency of ſpirit, which ren<g ref="char:EOLhyphen"/>ders a man uſefull for the Publick?</p>
+            <p>But if any are delighted with <hi>the ſhine of Gold,</hi> let them poſſeſs themſelves of that bright-fac'd Mettal, and then they may pleaſe them<g ref="char:EOLhyphen"/>ſelves as much as they will with its ſhining lu<g ref="char:EOLhyphen"/>ſtre. Do ye delight in Honour? ſeek for Wiſ<g ref="char:EOLhyphen"/>dom, and Honour will not fail to attend you: <hi>Exalt Her, and ſhe ſhall promote thee; She ſhall bring thee to Honour, when thou doſt embrace her,</hi> &amp;c.</p>
+            <p>Thus ye ſee the Excellency of Wiſdom to be ſuch, as that it may juſtly challenge the prece<g ref="char:EOLhyphen"/>dency of Riches, and Power, and Honour, which are the moſt <hi>courted advantages,</hi> that I may not ſay, <hi>Vanities</hi> of the world. And ſo
+<pb n="13" facs="tcp:62730:14"/>you have ſeen wherein that Excellency of Wiſ<g ref="char:EOLhyphen"/>dom lies, which juſtly denominates her <hi>the Prin<g ref="char:EOLhyphen"/>cipal thing:</hi> I come now to prove,</p>
+            <p n="3">III. That this Excellency is attainable, and to ſhow you by what means you may attain it.</p>
+            <p>The <hi>Throne of Wiſdom</hi> is on High, and this World may ſeem to be left as the <hi>Stage</hi> on which <hi>Folly</hi> is come to act her part: Wiſdom is ſo great an Excellency, that it may well be que<g ref="char:EOLhyphen"/>ſtion'd whether it can be found on Earth: Yet certainly this Excellency is attainable. If we be but ſerious and conſtant in our Endeavours, we may come to have our Souls adorn'd with the Lights and crown'd with the Glories of Wiſdom. For,</p>
+            <p n="1">1. 'Tis not ſure in vain, that the Wiſe Man doth here commend Wiſdom to us, and exhort us to the moſt earneſt Endeavours to acquire it: <hi>Wiſdom is the principal thing: therefore get Wiſdom, and with all thy getting get <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding.</hi> God is not wont to delude men, in commanding them to ſeek that, which he is re<g ref="char:EOLhyphen"/>ſolv'd he will deny, or knows they cannot at<g ref="char:EOLhyphen"/>tain. This Excellency Wiſdom is then certain<g ref="char:EOLhyphen"/>ly attainable.</p>
+            <p n="2">2. God has aſſign'd unto Men that Work in the World, which cannot poſſibly be done with<g ref="char:EOLhyphen"/>out Wiſdom; and yet if it be not done, he has ſubjected them to an inevitable Neceſſity of bearing his Wrath, and being eternally miſe<g ref="char:EOLhyphen"/>rable. Wiſdom is the
+<note n="*" place="margin">Pſalm 111.10. Pro. 1.7. and 9.10.</note> firſt Principle of Re<g ref="char:EOLhyphen"/>ligion and Piety, whereby Man gives unto God <hi>the Glory due unto his Name.</hi>
+               <note n="‖" place="margin">Pſalm 29.2.</note> This is his great
+<pb n="14" facs="tcp:62730:15"/>Work in this world. And he that does not thus honour God on Earth, muſt expect no Glory nor Happineſs in Heaven: What then remains, but that he muſt bear his own Guilt, and God's Wrath in Hell? Now if Wiſdom was not attainable that this work might be done, this would be nothing elſe but a cruel deſign of the Eternal deſtruction of all Mankind, which is utterly inconſiſtent with the Divine Philanthropy, the eſſential Goodneſs of God, and his unſpeakable Love to Man: And there<g ref="char:EOLhyphen"/>fore true Wiſdom is certainly attainable.</p>
+            <p n="3">3. God hath given to Man a Rational Soul, furniſh'd with excellent Powers <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Faculties, whereby it's capable of the moſt Noble Endow<g ref="char:EOLhyphen"/>ments, and agreeable Actions, as a Power of diſcerning betwixt Good and Evil; <hi>the <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding:</hi> and a Power of chooſing the Good, and refuſing the Evil; <hi>the Will.</hi> How far theſe Faculties are impeded by <hi>the depravation of Na<g ref="char:EOLhyphen"/>ture,</hi> and again relieved by <hi>the aids of Grace,</hi> I ſhall not now diſcourſe. Certain it is, To know and diſcern is eſſential to the Underſtanding: to chooſe or refuſe is eſſential to the Will. Here<g ref="char:EOLhyphen"/>by God hath given to Man an immediate capa<g ref="char:EOLhyphen"/>city of Wiſdom, which ſtands in the knowledge of excellent things, the propoſal of excellent ends, and the Choice and Uſe of the moſt pro<g ref="char:EOLhyphen"/>per means for the attainment of thoſe ends. He that lives in the Uſe of his Reaſon, in the ex<g ref="char:EOLhyphen"/>erciſe of theſe Noble Powers of his Soul, is, in ſome degree, Wiſe. He that applyes his Under<g ref="char:EOLhyphen"/>ſtanding to the Knowledge of that which God
+<pb n="15" facs="tcp:62730:15"/>reveals to be good for Man, and imployes all his Powers in the diligent and conſtant proſe<g ref="char:EOLhyphen"/>cution of it, hath attain'd to true Wiſdom. This Method is ſo Natural, this Motion is ſo agreeable, that it cannot but plainly appear, that this Excellency, this rare Endowment of the Mind of Man, Wiſdom and Underſtanding is attainable.</p>
+            <p>Neither need I inſiſt on the Means, by which it may be attain'd, ſeeing that has already been declar'd in ſome meaſure in the foremention'd Proofs and Inſtances of its attainableneſs: I ſhall only add, True Wiſdom may be attain'd by theſe Means:</p>
+            <p n="1">1. <hi>A due Government of a Man's ſelf.</hi> He that would attain Wiſdom, muſt not permit an Ataxy in his own Soul: He muſt not ſuffer the Inferiour Powers thereof to Uſurp an Empire and Regency over the Superiour. He muſt carefully maintain the Right and Power of Rea<g ref="char:EOLhyphen"/>ſon in the Government of the Appetite and Paſ<g ref="char:EOLhyphen"/>ſions. The ſenſitive Powers muſt be ſtrictly held in ſubjection to the Rational: Keep <hi>Rea<g ref="char:EOLhyphen"/>ſon in her Throne,</hi> and She will ſoon be inur'd to the Government of all the motions of the Soul, the actions of the Life, according to the <hi>Rules of Wiſdom.</hi>
+            </p>
+            <p n="2">2. <hi>A ſerious
+<note n="‖" place="margin">Deut. 32.29.</note> conſideration of a Mans State.</hi> There's an Eternal State of Happineſs or Miſery remains for every Man after death, according to his demeanour in this Life. The Wicked ſhall be tormented in
+<note n="*" place="margin">Mat. 25. ult.</note> 
+               <hi>Eternal Fire:</hi> the Righ<g ref="char:EOLhyphen"/>teous ſhall
+<note n="‖" place="margin">Mat. 13.43.</note> 
+               <hi>ſhine as the Sun,</hi> in the ſplendours
+<pb n="16" facs="tcp:62730:16"/>of a ſuperexcellent Glory, which ſhall never ſuffer the leaſt Eclipſe. Now a Holy and Vir<g ref="char:EOLhyphen"/>tuous Life is the Way and Means to this State of Excellent Glory. The lively conſideration hereof muſt needs be of mighty Power and In<g ref="char:EOLhyphen"/>fluence to incline a man to the choice and uſe of theſe Means, in order to ſo excellent an end: And herein lies Man's true Wiſdom.</p>
+            <p n="3">3. <hi>A diligent ſtudy of the Holy Scriptures;</hi> Herein are contain'd <hi>the Oracles of God,</hi> where<g ref="char:EOLhyphen"/>in his hidden Wiſdom is reveal'd to Men. The Holy Bible is <hi>the Book of Wiſdom.</hi> Of this bleſſed Book may be truly ſaid, that which (not without great vanity) was inſcribed upon the Tomb of <hi>Pherecydes</hi> the <hi>Syrian;
+<note n="*" place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, La<g ref="char:EOLhyphen"/>ert.</note> Here lies Wiſdom in its higheſt Perfection.</hi> That Wiſdom which ſhineth in its higheſt Glory, amongſt Angels in Heaven, here diſcloſeth it ſelf in its amiable and moſt attractive Beauties to men on Earth. By Meditation on God's Teſti<g ref="char:EOLhyphen"/>monies Holy <hi>David</hi> became
+<note n="‖" place="margin">Pſ. 119.98, 99, 100.</note> 
+               <hi>wiſer than his Enemies, wiſer than the Ancients, wiſer than his Teachers,</hi> whoſe Office it was to teach him Wiſ<g ref="char:EOLhyphen"/>dom: <hi>The Holy Scriptures are able to make a man wiſe to Salvation:</hi>
+               <note n="*" place="margin">2 Tim. 3.15.</note> Herein God hath ſet before us, and propoſed unto us thoſe things, in the Knowledge and Practiſe whereof ſtands that True Wiſdom, which is Man's greateſt Excellency and Glory. The Holy Goſpel is the manifeſtation of <hi>the Wiſdom of God in a My<g ref="char:EOLhyphen"/>ſtery, even the hidden Wiſdom, which God Or<g ref="char:EOLhyphen"/>dain'd before the World unto our Glory.</hi>
+               <note n="‖" place="margin">1 Cor. 2.7.</note> The wiſeſt men that ever were in the world, who
+<pb n="17" facs="tcp:62730:16"/>were not immediately inſpired by God, ow'd their Excellent Wiſdom to the ſtudy of his Holy Word. That great <hi>Oracle of Wiſdom,</hi> and State-Politie, the Lord <hi>Verulam,</hi> confeſt he ow'd his Wiſdom to the <hi>Works of Solomon,</hi> particularly the Book of the <hi>Proverbs.</hi> The Holy Scri<g ref="char:EOLhyphen"/>ptures are that <hi>Great Light,</hi> which God hath ſet up and appointed to give the Light of Wiſ<g ref="char:EOLhyphen"/>dom to the Rational World.</p>
+            <p>And thus you ſee by what Means this Excel<g ref="char:EOLhyphen"/>lency, that ſo ennobles the mind of Man, may be attain'd.</p>
+            <p>Now me thinks every one of you ſhould be inflam'd with a Generous Deſire of ſo great an Excellency, and ſhould reſolve to be diligent and ſerious in your endeavours for the attain<g ref="char:EOLhyphen"/>ment of it. It's an Argument of a baſe and mean Spirit to reſt in an inglorious ſloth, when a man is call'd to an Honourable Imployment. Behold, here's a Noble Deſign, a Work wor<g ref="char:EOLhyphen"/>thy to engage all your Powers, though ye were the greateſt Princes on Earth, <hi>the Acquiſition of Wiſdom.</hi> Wiſdom is the greateſt Excellen<g ref="char:EOLhyphen"/>cy and Adornment of the Soul of Man, and ren<g ref="char:EOLhyphen"/>ders him amiable and illuſtrious in the ſight of God. Wiſdom more adorns a King than His Royal Diadem, and redeems the meaneſt man from an unregarded Obſcurity, and renders him truly Excellent and Honourable. A wiſe Man, though in never ſo poor and mean Eſtate, is <hi>a bright Star,</hi> incircled with his own Rayes of Glory, and need not envy the proudeſt Princes their Secular Greatneſs and Honour.
+<pb n="18" facs="tcp:62730:17"/>There are many things Excellent, Great, Glori<g ref="char:EOLhyphen"/>ous in the worlds eye, which men are wont to purſue with great earneſtneſs, and would ac<g ref="char:EOLhyphen"/>count themſelves very happy in the acquiſition and attainment of them: But, <hi>Wiſdom is the prineipal thing; therefore get Wiſdom,</hi> &amp;c. <hi>Ex<g ref="char:EOLhyphen"/>alt her, and ſhe ſhall promote thee,</hi> &amp;c.</p>
+            <p>Such is the Excellency and deſirableneſs of Wiſdome; and therefore, 1. <hi>Get Wiſdome:</hi> 2. <hi>
+                  <g ref="char:V">Ʋ</g>ſe Wiſdom:</hi> and 3. <hi>Let your Wiſdom be accompanied with thoſe Virtues and Graces, which may demonſtrate its Excellency and Glo<g ref="char:EOLhyphen"/>ry.</hi>
+            </p>
+            <p n="1">1. Get Wiſdom; why ſhould you take up with any other acquiſition, when you are ca<g ref="char:EOLhyphen"/>pable of ſo great an Excellency? What is it in the world on which men put the greateſt va<g ref="char:EOLhyphen"/>lue? Silver, Gold, Gems? Know, Wiſdom is more excellent and deſirable: <hi>It cannot be got<g ref="char:EOLhyphen"/>ten for Gold, neither ſhall Silver be weighed for the price thereof: It cannot be valued with the Gold of Ophir, with the precious Onyx or the Saphire: The Gold and Cryſtal cannot equal it; and the exchange of it ſhall not be for Jew<g ref="char:EOLhyphen"/>els of fine Gold. No mention ſhall be made of Coral or of Pearls; for the price of Wiſdom is above Rubies: The Topaz of Aethiopia ſhall not equal it, neither ſhall it be valued with pure Gold.</hi>
+               <note n="*" place="margin">Job 28.15-19.</note> The Gold of <hi>Ophir,</hi> the <hi>Topaz</hi> of <hi>Ae<g ref="char:EOLhyphen"/>thiopia,</hi> the precious <hi>Onyx</hi> and the <hi>Saphire,</hi> the <hi>Cryſtal</hi> and the <hi>Coral</hi> are not worthy to be compar'd to Wiſdom. Did men but know the worth of Wiſdom, the fineſt Gold, the faireſt
+<pb n="19" facs="tcp:62730:17"/>Pearls, the richeſt Rubies, would find but ſmall regard. Could the Excellency and Beauty of Wiſdom be preſented to the eye of man, the fineſt Gold would ceaſe to ſhine, the faireſt Pearls would ſoon grow pale, and the richeſt Rubies would bluſh for ſhame, as wholly van<g ref="char:EOLhyphen"/>quiſh'd by ſo rare a Virtue, and render'd of lit<g ref="char:EOLhyphen"/>tle or no value.</p>
+            <p>Wiſdom is the Excellency of the moſt Noble Beings; it's the Praiſe of Men, the Perfection of Angels, the Glory of God: The Sun is the Glo<g ref="char:EOLhyphen"/>ry of the world, Light of the Sun: God is the Glory of all Beings, Wiſdom is the Glory of God. Now how great an Honour is it for a Mortal Man to be
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Alcin.</hi> c. 2. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Famb.</hi>
+               </note> 
+               <hi>like to the moſt High God,</hi> in that Excellency, which is his Glory! To glitter in Gold is accounted a great Glory; but it's a far greater, to be an Earthly God, in the Excellency of Wiſdom: <hi>Get Wiſdom therefore, and with all your getting get <g ref="char:V">Ʋ</g>nderſtanding.</hi> For,</p>
+            <p n="1">1. Wiſdom will give the greateſt Excellency to your Perſons: 'Tis Wiſdom that <hi>makes a Mans face to ſhine:</hi>
+               <note n="‖" place="margin">Eccl. 8.1.</note> For it impreſſes upon him <hi>a Ray of the Glory of God:
+<note n="*" place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Wiſe men on Earth are like the ſtars in Heaven,</hi> ſay the Hebrew Doctors. Certainly, <hi>Wiſdom excells Folly, as far as Light excells Darkneſs.</hi>
+               <note n="*" place="margin">Eccl. 2.13.</note> There's not more difference betwixt a Man and a Beaſt, than betwixt a Wiſe Man and a Fool. Wiſdom will crown you with a ſingular Glory; 'twill make you as <hi>Princes</hi> amongſt the People, as <hi>An<g ref="char:EOLhyphen"/>gels</hi> amongſt men.</p>
+            <pb n="20" facs="tcp:62730:18"/>
+            <p n="2">2. 'Twill make you beneficial to others: 'Tis the Glory of Man to be the Means of Good to many: 'Twas the Wiſdom of <hi>Joſeph,</hi> which preferr'd him to that great Honour in <hi>Aegypt,</hi> which gave him a mighty Capacity of doing Good; and ſo he became the Means of ſuſtain<g ref="char:EOLhyphen"/>ing his Fathers Family, yea, the whole Land of <hi>Aegypt,</hi> and all the Neighbouring Countries in the years of Famine. By Wiſdom ye may not only promote the <hi>Welfare of your own Country,</hi> but alſo contribute to <hi>the Safety, Peace and Ho<g ref="char:EOLhyphen"/>nour of the whole Kingdom.</hi> 'Tis Wiſdom will make you living Images of the great God, and mighty Inſtruments of Good to men.</p>
+            <p n="3">3. 'Twill make you truly Happy and Ho<g ref="char:EOLhyphen"/>nourable; Happy in the Favour of God, Ho<g ref="char:EOLhyphen"/>nourable in the Eſteem of Men. True Wiſdom is alwayes attended with a train of Excellent Virtues, and it intitles men to the higheſt Ho<g ref="char:EOLhyphen"/>nours, to Immortal Glories in the Kingdom of God. The Glory of Wiſdom out-laſts mens Life, and ſhall have a Reſurrection with their Bodies from the Grave: For when the Day is come, that the Dead ſhall riſe from the Duſt, then ſhall <hi>they that be Wiſe ſhine as the bright<g ref="char:EOLhyphen"/>neſs of the Firmament;</hi>
+               <note n="‖" place="margin">Dan. 12.3.</note> in the luſtre of a ſu<g ref="char:EOLhyphen"/>perexcellent Glory, in the Kingdom of God: <hi>Happy then is the Man that findeth Wiſdom, and the man that getteth <g ref="char:V">Ʋ</g>nderſtanding: For length of dayes is in her right hand, and in her left hand Riches and Honour.</hi>
+               <note n="*" place="margin">Prov. 3.13, 16.</note> Glory is the inheritance of Wiſdom: For <hi>the wiſe ſhall in<g ref="char:EOLhyphen"/>berit Glory; when ſhame ſhall be the promotion
+<pb n="21" facs="tcp:62730:18"/>of Fools.
+<note n="‖" place="margin">Prov. 3. ult.</note> Get Wiſdom then, and with all your getting get <g ref="char:V">Ʋ</g>nderſtanding. Exalt Her, and She ſhall promote thee; She ſhall bring thee to Ho<g ref="char:EOLhyphen"/>nour, when thou doſt embrace Her: She ſhall give to thine Head an Ornament of Grace, a Crown of Glory ſhall She deliver to thee.</hi>
+            </p>
+            <p>Be ſenſible of your <hi>want of Wiſdom.</hi> It's not to be imagin'd, that he ſhould earneſtly endea<g ref="char:EOLhyphen"/>vour to get Wiſdom, who has an Opinion that he is already Wiſe: <hi>Be not wiſe therefore in your own conceits:
+<note n="‖" place="margin">Rom. 12.16.</note> Let no man deceive him<g ref="char:EOLhyphen"/>ſelf: If any man among you ſeem to be wiſe in this world,</hi> ('tis the Apoſtles Counſel) <hi>let him become a Fool that he may be wiſe:</hi>
+               <note n="*" place="margin">1 Cor. 3.18.</note> For he that thinks himſelf ſufficiently Wiſe, is cer<g ref="char:EOLhyphen"/>tainly a Fool: whereas he, who being ſenſible of his Folly, ſeeks after Wiſdom, begins to be Wiſe.</p>
+            <p>Seek then after Wiſdom as the Principal Ex<g ref="char:EOLhyphen"/>cellency and ennoblement of your Nature: and that ye may attain it,</p>
+            <p n="1">1. Converſe with the Wiſe: For <hi>he that walketh with wiſe men ſhall be wiſe; but a com<g ref="char:EOLhyphen"/>panion of Fools ſhall be deſtroy'd:</hi>
+               <note n="*" place="margin">Pro. 13.20.</note> This world is <hi>the Temple of God:</hi> Wiſe Men are <hi>Lamps,</hi> which God hath lighted up therein. One Lamp may be lighted from another. From them ye may derive that Light of Wiſdom, which will make you to ſhine in the eyes of God and Men: But know <hi>the truly virtuous are the only Wiſe.</hi> The Light of Wiſdom ſhines in a Holy Life, as a bright ſtar in a ſerene skie. Chooſe then Holy and Good Men for your
+<pb n="22" facs="tcp:62730:19"/>intimate Companions, that through the Light and influence of their Communications and Ex<g ref="char:EOLhyphen"/>ample, you may learn Wiſdom by <hi>a living Law.</hi> Thus Holy <hi>David, I am a Companion of all them that fear thee, and of them that keep thy Precepts.</hi>
+               <note n="‖" place="margin">Pſalm 119.63.</note> Theſe are as <hi>God's Myſtick Seals,</hi> by which he impreſſes Wiſdom on the minds of men.</p>
+            <p n="2">2. Ask Wiſdom of God: <hi>For the LORD giveth Wiſdom, out of his mouth cometh Know<g ref="char:EOLhyphen"/>ledge and <g ref="char:V">Ʋ</g>nderſtanding.</hi>
+               <note n="*" place="margin">Prov. 2.6.</note> God is the Foun<g ref="char:EOLhyphen"/>tain of Wiſdom, being infinitely, eſſentially wiſe. Angels excel in Wiſdom: theſe bright Lamps which burn before the Throne of God, were lighted up by his Glorious Beams. To whom then ſhould Man go, who wants and deſires Wiſdom, but to the All-wiſe God? 'Tis He that hath ſaid, <hi>Ask, and it ſhall be given you.</hi>
+               <note n="*" place="margin">Matt. 7.7. Luk. 11.9.</note> Did the pooreſt man preſent know where he might have Gold for asking, he would ſoon out-ſhine the Rich, and diſdain to fill his Trea<g ref="char:EOLhyphen"/>ſury with any baſer Metal: But he that asks Gold of the Rich, ſhall but be derided for the inſolency of his requeſt. But, <hi>If any of you lack Wiſdom</hi> (which is better than Gold) <hi>let him ask of God, that giveth to all men liberal<g ref="char:EOLhyphen"/>ly, and upbraideth not, and it ſhall be given him.</hi>
+               <note n="‖" place="margin">Jam. 1.5.</note> Thus did <hi>King Solomon</hi> become the wiſeſt man in the World.</p>
+            <p n="3">3. Engage your ſelves with all ſeriouſneſs in the exerciſe of a ſolid Piety, and the Virtues of a Holy Life: For, <hi>The Fear of the Lord is the beginning of Wiſdom: A good <g ref="char:V">Ʋ</g>nderſtanding
+<pb n="23" facs="tcp:62730:19"/>have all they that do his Commandments.</hi>
+               <note n="*" place="margin">Pſalm 111.10.</note> Live not then at random; but make an Election up<g ref="char:EOLhyphen"/>on a due deliberation of that courſe of Life, which you apprehend to be moſt excellent and agreeable to the Divine Will, and moſt conducible to your future good, your eternal happineſs: Bind your ſelf with the firmeſt Re<g ref="char:EOLhyphen"/>ſolutions, notwithſtanding all difficulties and diſcouragements, to perſiſt in this way, till you attain your end. When you are aſſaulted with Temptations, remember then not to act ac<g ref="char:EOLhyphen"/>cording to your preſent inclinations, but ac<g ref="char:EOLhyphen"/>cording to that Election you have made, thoſe reſolutions which you have fixed in your ſoul, upon a mature deliberation: This is your high<g ref="char:EOLhyphen"/>eſt Wiſdom, to act according to the Rules of Virtue, with an unſhaken conſtancy, till you ſhall receive a Crown of Glory.</p>
+            <p>Thus I have ſhew'd you the way and means whereby ye muſt get Wiſdom. Now,</p>
+            <p n="2">II. Learn to uſe Wiſdom: Let Wiſdom be your Guide in all your Affairs, and Underſtand<g ref="char:EOLhyphen"/>ing your directreſs in all your undertakings: Be diligent, ſerious and conſtant in doing thoſe things wherein true Wiſdom doth conſiſt. Aſ<g ref="char:EOLhyphen"/>ſemble all the Powers of your Soul for this pur<g ref="char:EOLhyphen"/>poſe. The Sun inceſſantly moves in the Hea<g ref="char:EOLhyphen"/>vens, and as inceſſantly ſhines on the Earth; ſo do ye in the Lights of Wiſdom, till ye ſhall be incircled with Raies of Glory in the preſence of God. Enter then into <hi>the paths of Virtue,</hi> that ye may ſhine in <hi>the Lights of Wiſdom.</hi> Deſiſt from Sin, as the greateſt Folly; believe in
+<pb n="24" facs="tcp:62730:20"/>
+               <hi>Chriſt,</hi> obey his Goſpel, and ſubmit to his Go<g ref="char:EOLhyphen"/>vernment, that ye may ſecure the ſalvation of your Souls, which is your higheſt Wiſdom.</p>
+            <p>Let your Wiſdom diſcloſe it ſelf in your 1. <hi>Piety towards God;</hi> 2. <hi>Loyalty to the King;</hi> and 3. <hi>Love and Charity to one another:</hi> I ſhall propoſe theſe Duties to you, only as proofs of the Wiſdom, the proper acts and indications of this excellent Virtue.</p>
+            <p n="1">1. Let your Wiſdom ſhine in your Piety to<g ref="char:EOLhyphen"/>wards God: True Wiſdom comes from God, and diſcloſes its Excellency and Divine Original by thoſe Acts of Religion and Piety, by which Man makes the neareſt approaches to God. Re<g ref="char:EOLhyphen"/>ligion, in its <hi>Riſe,</hi> is Mans Return to God; in its <hi>Progreſs,</hi> his Honouring of God by acts of Devotion, and the Virtues of a Holy Life; in its <hi>End,</hi> his Union with God, and fruition of him as the chiefeſt Good, and his higheſt hap<g ref="char:EOLhyphen"/>pineſs for ever.</p>
+            <p>Now if Religion and Piety, which compre<g ref="char:EOLhyphen"/>hends all the Virtues and Duties of a good Life, be the proper argument and evidence of True Wiſdom, certainly <hi>Atheiſm and Irreligion, de<g ref="char:EOLhyphen"/>bauchory and ſin</hi> are undeniable evidences of the want of this excellency. Swearing, Lying, Cur<g ref="char:EOLhyphen"/>ſing, Drinking to exceſs, Whoredom and Un<g ref="char:EOLhyphen"/>cleanneſs, Cheating and Over-reaching for gain, are viſible <hi>badges of folly, and marks of mad<g ref="char:EOLhyphen"/>neſs</hi> upon men. For is it not deſperate folly and madneſs in a Mortal Man, to make Almigh<g ref="char:EOLhyphen"/>ty God his Enemy, by ſlighting his Authority, breaking his Laws, and deſpiſing his Govern<g ref="char:EOLhyphen"/>ment?
+<pb n="25" facs="tcp:62730:20"/>Is it not Folly and Madneſs in men, to provoke Him to wrath by their ſins, in whoſe Favour lies all their Felicity? Is it not Folly and Madneſs in Men, made after the Image of God, for a little ſordid gain, or filthy pleaſure of Sin, to caſt away all poſſible hopes of future happineſs in Heaven?</p>
+            <p>Take heed then, ye that would be account<g ref="char:EOLhyphen"/>ed <hi>Sons of Wiſdom,</hi> that ye be not juſtly char<g ref="char:EOLhyphen"/>ged with Folly. Let not an Oath, a Curſe, or any corrupt Communication be heard to come out of your mouths; drink not to exceſs, nor provoke any other to drink to your meaſure. Let not your Meeting this Day be <hi>a Feaſt of Fools.</hi> If any man ſwear an Oath, let him pay for his folly, and bear his own ſhame, while ye manifeſt your Wiſdom, in drawing from the <hi>mire and filth of your Country</hi> (the ſwag<g ref="char:EOLhyphen"/>gering, ſwearing debauchee is no better) ſome profit for the relief of the Poor.</p>
+            <p n="2">2. Shew your ſelves wiſe men by your Loy<g ref="char:EOLhyphen"/>alty to your King. Law and Government is the greateſt ſecurity we have under Heaven for our Lives and Liberties, our Religion and Property, and whatſoever is or ought to be dear unto us. Take away the <hi>fence of Law,</hi> break down <hi>the Wall of Government,</hi> and all is inſtantly laid open and common. The ſtrong will oppreſs the weak, the Poor will prey up<g ref="char:EOLhyphen"/>on the Rich, and the Lives of the Innocent will be in the hands of the Cruel. <hi>A fruitfull Land</hi> will ſoon become <hi>a barren Wildorneſs;</hi> Cities and Dwelling-houſes would be turn'd
+<pb n="26" facs="tcp:62730:21"/>into Dens of Bruit-beaſts, and wild ſalvages in the ſhapes of men. Looſe but the Bonds of Government, and all things would inſtantly run into Confuſion, and men would ſtill prey upon one another, till they became all a prey to a Foreign Foe, all inſlaved to a Foreign Yoke. To prevent ſo great miſchiefs, it's the Wiſdom of every man to contribute what he can to the Conſervation of the Law and Go<g ref="char:EOLhyphen"/>vernment under which he lives, in its full Strength and Beauty. Now the <hi>Loyalty and Obedience</hi> of the Subjects to their Soveraign, gives the greateſt ſtrength to the Law, and Beauty to the Government.</p>
+            <p>He that breaks a Law opens a Gap in the Fence, and he that deſpiſeth Authority, expo<g ref="char:EOLhyphen"/>ſes the Government to Contempt. When a Multitude, <hi>in purſuit of ſome particular Ad<g ref="char:EOLhyphen"/>vantage, or for the redreſs of ſome particular Grievance,</hi> combines together to over-bear the Law, and ſubvert the Government of a King<g ref="char:EOLhyphen"/>dom, they act the greateſt folly imaginable, by de<g ref="char:EOLhyphen"/>ſtroying the beſt ſecurity they have for all they enjoy. They do but try their Forces to ſink the Ship wherein they ſail; to pull down the Houſe in which they dwell; to overthrow the Stage on which they ſtand, to their inevitable Ruine.</p>
+            <p>The Sovereign Power is <hi>the Soul of the Law</hi> and Government: He that weakens this Power, goes about to deſtroy the Law, to ſubvert the Government: But Loyalty and Obedience to the Sovereign, who governs his Subjects by
+<pb n="27" facs="tcp:62730:21"/>Good Laws, preſerves the Law in its full Force, and the Government in its Luſtre and Glory. Now this is your greateſt ſecurity for your deareſt intereſts, and will be a proof of your Wiſdom, and render you the Worthies of your Countrey.</p>
+            <p n="3">3. Demonſtrate your Wiſdom by your Love and Charity to one another. Union is a work of Wiſdom, as mightily conducing to the greater good of the parts united. Now Bro<g ref="char:EOLhyphen"/>therly Love is the beautiful band of Union: <hi>Behold how good, and how pleaſant it is for Brethren</hi> (of the ſame Countrey, of the ſame City, of the ſame Church) <hi>to dwell together in <g ref="char:V">Ʋ</g>nity.</hi>
+               <note n="‖" place="margin">Pſ. 133.1.</note> Unity is the Beauty and Strength of a Society, its Safety and Glory. The Branch by its Union with the Tree, the Stone with the Building, a Member with the Body, ſecures it ſelf and the Body, the Building, the Tree: but when this Union is diſſolv'd, the part, if not the whole, is ſoon deſtroy'd. 'Tis then your Wiſdom to maintain that Union by Brotherly Love, which is ſo conducible to your mutual Good. This will be your Strength and Beau<g ref="char:EOLhyphen"/>ty, your Excellency and Honour. The Conſer<g ref="char:EOLhyphen"/>vation and Improvement hereof for its proper ends, will be your Wiſdom, as Men, and as Chriſtians, your Crown and Glory.</p>
+            <p>But then <hi>to your Brotherly Kindneſs add Charity;</hi>
+               <note n="*" place="margin">2 Pet. 1.7.</note> in the Relief of thoſe that are in Diſtreſs, in the Redemption of your poor Bre<g ref="char:EOLhyphen"/>thren from the Ignominy, Obſcurity and Mi<g ref="char:EOLhyphen"/>ſery of an indigent Condition. This will be a
+<pb n="28" facs="tcp:62730:22"/>ſingular Proof of your Wiſdom, as well as a viſible mark of your Chriſtianity. 'Twill be your Wiſdom in dayes of Danger, to ſecure your Eſtates; and nothing can be ſo ſafe as that which (by Acts of Charity) <hi>is laid up in Heaven.</hi>
+               <note n="‖" place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 6.<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> It's certainly an Act of great Wiſ<g ref="char:EOLhyphen"/>dom in a man, to improve his Temporal E<g ref="char:EOLhyphen"/>ſtate to the beſt advantage. And this improve<g ref="char:EOLhyphen"/>ment is the beſt made, this advantage is beſt ſe<g ref="char:EOLhyphen"/>cur'd by the Offices of Charity. For by do<g ref="char:EOLhyphen"/>ing Good to others, a man treaſures up Glory to himſelf. For though the Poor may ſeem a barren ſoil, he that ſows this <hi>precious Seed,</hi> ſhall reap Honour on Earth, and rewards in Heaven. Divine Charity is the only Excel<g ref="char:EOLhyphen"/>lent <hi>Chymiſtry;</hi> it turns even Droſs into Gold. Hereby you may commute your Temporal Riches for Eternal Treaſures. 'Tis the Grain not ſtor'd up in the Garner, but ſown in the Fields, that yields the plentiful encreaſe.</p>
+            <p>If God then by his Bleſſing hath given you a Temporal Eſtate, it's your Wiſdom to imploy ſome part thereof <hi>in Works of Charity,</hi> as the beſt improvement for an Eternal Advantage. They who moſt abound with worldly Goods, are but <hi>Stewards of Gods Bleſſings,</hi> and 'tis their Wiſdom to imploy them according to his Will. This is the Proof of their Fidelity, whereupon they may expect God's Acceptance and a great reward.</p>
+            <p>That Advantage is moſt to be valued, which is of greateſt extent and longeſt duration. Such is the advantage which may be acquir'd by the
+<pb n="29" facs="tcp:62730:22"/>Offices of Charity. For hereby many perſons may be rais'd from an unprofitable ſloth and deep poverty, to a happy Capacity of do<g ref="char:EOLhyphen"/>ing good to others; and then will the Glory of all their good deeds redound to you. So may ye do good after this Life, and bring Glo<g ref="char:EOLhyphen"/>ry to God, when ye ſhall ſleep in your <hi>Beds of Honour;</hi> ſuch are the Graves of good men, who having finiſh'd their courſe of Virtue, <hi>lie down in Glory,</hi> and reſt in the hope of a happy Reſurrection to the Glorious Joys of an endleſs Life.</p>
+            <p>'Tis certainly a commendable Act of Chari<g ref="char:EOLhyphen"/>ty, to take Children out of poor Families, and train them up in honeſt Trades and Callings, whereby they may become ſerviceable to the Publick Good. <hi>[You may here behold this day ſome Inſtances of the Fruits of this Charity</hi>
+               <note n="*" place="margin">Above 60 Youths put out Appren<g ref="char:EOLhyphen"/>tices in <hi>London</hi> by the Chari<g ref="char:EOLhyphen"/>ties of this Aniverſa<g ref="char:EOLhyphen"/>ry Feaſt.</note>.] From theſe <hi>neglected Quarries,</hi> are thoſe ſtones ſometimes taken, which are the <hi>Strength and Beauty of the Building;</hi> the ſtately Pinnacles and Top-ſtones thereof.</p>
+            <p>Wiſdom ſhines in her brighteſt ſplendour in the Works of Charity, which are the <hi>paths to Honour.</hi> Count it your Glory then to do Good; to be Beneficial to your poor Brethren. <hi>Hide not your ſelves from your own fleſh</hi>
+               <note n="‖" place="margin">
+                  <hi>Iſa.</hi> 58.7.</note>. No<g ref="char:EOLhyphen"/>thing is more Divine, than to do Good
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Syneſ. Ep.</hi> 31.</note>. <hi>It's a more bleſſed thing to give, than to receive
+<note n="‖" place="margin">Acts 20.35.</note>. Honour God then with your ſubſtance</hi>
+               <note n="*" place="margin">Pro 3.9.</note>, and relieve the Poor with ſome part of your Eſtate: So ſhall the Poor at once lift up their eyes up<g ref="char:EOLhyphen"/>on you, and their hands to Heaven and bleſs
+<pb n="30" facs="tcp:62730:23"/>you, while they behold you with Love and Veneration, as ſo many <hi>Living Images</hi> of the Eternal Divinity, the Sovereign Beauty and Goodneſs.</p>
+            <p>Thus I have ſhew'd you the right Uſe, and beſt improvement of Wiſdom, for the Glory of God, and Good of Men. Now in the laſt place,</p>
+            <p n="3">III. Let your Wiſdom be accompani'd with thoſe Virtues and Graces, which may with the moſt convincing Light and Evidence atteſt its Original, and juſtifie it to the World, to be the Off-ſpring of Heaven, the Daughter and the de<g ref="char:EOLhyphen"/>light of God; as with <hi>Innocency, Meekneſs and Humility.</hi>
+            </p>
+            <p n="1">1. <hi>Innocency.</hi> Defraud no Man, wrong no Man; <hi>Be wiſe as Serpents, but be harmleſs as Doves
+<note n="‖" place="margin">Mar. 10.16.</note>. Wiſdom buildeth her Houſe,</hi> but not with the Ruines of her Neighbour. He that does wrong to another, doth the greateſt in<g ref="char:EOLhyphen"/>jury to himſelf: For he ſubjects himſelf to <hi>Gods
+<note n="‖" place="margin">1 Theſſ. 4.6.</note> Wrath,</hi> and his Eſtate to his
+<note n="*" place="margin">Mal. 2.2.</note> 
+               <hi>Curſe,</hi> which may not only ſecretly conſume his ill-gotten Goods, but alſo bring his whole Eſtate to nothing. No Man can ſhine in the Lights of Wiſdom, but <hi>in the State of Innocency.</hi>
+            </p>
+            <p n="2">2. <hi>Meekneſs.</hi> Diſturb no man: Diſquiet not your ſelves by letting looſe your unruly Paſ<g ref="char:EOLhyphen"/>ſions. Folly is clamorous and troubleſome, but Tranquillity and Peace are the inſeparable Companions of Celeſtial Wiſdom. <hi>The Wiſdom that is from above, is, firſt pure, and then peaceable, gentle, and eaſie to be entreated</hi>
+               <note n="‖" place="margin">Jam. 3.17.</note>.
+<pb n="31" facs="tcp:62730:23"/>Wiſdom is a glorious Princeſs, and She Governs her Subjects in Peace. Unruly Paſſions are not permitted to keep their Revels under her Re<g ref="char:EOLhyphen"/>gency. Theſe Rebels againſt Reaſon are bound in Chains, or baniſh'd from her Dominion. He is a Wiſe man that knows well how <hi>to Govern a City;</hi> but he more excells in Wiſdom, who knows how <hi>to govern his own Spirit</hi>
+               <note n="*" place="margin">Prov. 16.32.</note>; who upon all Provocations, can keep his Paſſions under the Rule and Regency of Reaſon. He is both a Fool, and dangerous, who upon eve<g ref="char:EOLhyphen"/>ry petty diſcontent is ready to ſet his own Houſe on fire, and does what he can to put the Neighbourhood into a flame. Where the Spi<g ref="char:EOLhyphen"/>rit of a Man takes fire, with <hi>a little ſpark,</hi> a ſlight Provocation, there is wanting <hi>the Meek<g ref="char:EOLhyphen"/>neſs of Wiſdom.</hi>
+               <note n="*" place="margin">Jam. 3.13.</note>
+            </p>
+            <p n="3">3. <hi>Humility.</hi> Deſpiſe no man: <hi>He that de<g ref="char:EOLhyphen"/>ſpiſeth his Neighbour is void of Wiſdom</hi>
+               <note n="‖" place="margin">Prov. 11.12.</note>. Pride not your ſelves in the Opinion of your own Excellency: For <hi>when pride cometh, then com<g ref="char:EOLhyphen"/>eth ſhame; but with the lowly is Wiſdom</hi>
+               <note n="*" place="margin">Prov. 11.2.</note>. Wiſdom cohabits with Humility, and therefore <hi>let not the Wiſe Man Glory in his Wiſdom</hi>
+               <note n="‖" place="margin">Jer. 9.23.</note>, or deſpiſe his Neighbour becauſe of his Folly. Alas, O Man, <hi>who made thee to differ</hi>
+               <note n="*" place="margin">1 Cor. 4.7.</note>! The Great God who made you both, might have given him Wiſdom, and ſaid of thee, <hi>Let him be a Fool.</hi> Art thou wiſer than another? Be not lifted up: there are others wiſer than thou. If thou waſt in deed wiſer than all men, yet what was thy Wiſdom, but Folly to the moſt Wiſe God? Certainly thou canſt not deſerve
+<pb n="32" facs="tcp:62730:24"/>ſo much Folly in the weakeſt man, as the All-wiſe God diſcerns in thee. Angels excell in Wiſdom, yet the moſt Wiſe God <hi>charges them with Folly</hi>
+               <note n="‖" place="margin">Job 4.18.</note>. Now doſt thou not deſire, that God who ſees Folly in thee, may not deſpise thee? Then remember, that it is the Will of God, and there is the greateſt Reaſon in the world, that thou ſhouldeſt not deſpiſe thy Bro<g ref="char:EOLhyphen"/>ther, though thou perceiveſt in him a want of Wiſdom. Has God given you Wiſdom, con<g ref="char:EOLhyphen"/>ſerve it in Humility, and it will be your great Glory. Angels excell in Wiſdom, and they are exemplary in Humility: They veil
+<note n="*" place="margin">Iſa. 6.2, 3.</note> their faces in the preſence of God, and give Glory to His Name: And it is an Act of Humility in Man, to give the Glory of all his Excellency to God: And therefore, <hi>To God alone be aſcribed,
+<note n="*" place="margin">Rev. 7.12.</note> Wiſ<g ref="char:EOLhyphen"/>dom, and Strength, and Honour, and Glory, and Bleſſing, and Praiſe, both now and for ever<g ref="char:EOLhyphen"/>more.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="account">
+            <pb facs="tcp:62730:24"/>
+            <head>Coronis.</head>
+            <p>THe <hi>SERMON</hi> ended, the <hi>FEAST</hi> be<g ref="char:EOLhyphen"/>gins. Herein the <hi>Example</hi> is added to the <hi>Rule:</hi> The <hi>DOCTRINE</hi> delivered, pre<g ref="char:EOLhyphen"/>ſently (in its <hi>Warmth and Vigour</hi>) iſſues into <hi>PRACTICE. Brotherly Love</hi> is expreſt by <hi>Feaſting together,</hi> and then in the Cloſe, <hi>a Li<g ref="char:EOLhyphen"/>beral Contribution</hi> is made for the <hi>Offices of Cha<g ref="char:EOLhyphen"/>rity.</hi> And thus <hi>RELIGION,</hi> attended with <hi>BROTHERLY LOVE</hi> and <hi>ChARITY,</hi> (the principal <hi>Graces of Chriſtians,</hi> and viſible <hi>Glories of Chriſtianity</hi>) appears in its <hi>Beauty and Luſtre,</hi> in theſe <hi>LOVE-FEASTS</hi> of the <hi>Natives</hi> of our <hi>Countrey.</hi> This was all pru<g ref="char:EOLhyphen"/>dently managed, with <hi>Good Order, Civility and Sobriety,</hi> by the <hi>STEWARDS of the Feaſt,</hi> for this preſent Year, MDCLXXV, whoſe <hi>Names</hi> (that the Reader may know to whom the foregoing <hi>SERMON,</hi> preach'd upon their <hi>Choice and Call,</hi> is owing) are here expreſt;
+<list>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>THOMAS HOLLIER,</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>JOSEPH COLINGE,</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>WILLIAM SAVAGE,</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>JOHN SAPCOT,</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>THO. DAFFORNE,</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>JOHN LOND;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>THOMAS GIBBS,</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>SAM<g ref="char:V">Ʋ</g>EL BARON.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb facs="tcp:62730:25"/>
+            <p>The <hi>Feaſt</hi> ended, <hi>Stewards</hi> for the follow<g ref="char:EOLhyphen"/>ing Year are choſen, by ſetting of <hi>Garlands of Laurel</hi> upon their Heads, with the <hi>Sound of Muſick,</hi> and the <hi>Plaudits of the People.</hi> Here<g ref="char:EOLhyphen"/>in there is a little, but lively <hi>Repreſentation</hi> of that <hi>Honour and Happineſs,</hi> which is reſerved in <hi>Heaven,</hi> for thoſe Perſons, who live in the <hi>Exerciſe of Religion, Brotherly Love, and Cha<g ref="char:EOLhyphen"/>rity,</hi> here upon Earth. For at the <hi>end of their Life</hi> (which upon the Account of the <hi>Peace and Joy</hi> of a good Conſcience, will be but as the <hi>Cloſe of a Feſtival</hi>) they ſhall be <hi>Crown'd with Glory,</hi> and with joyful <hi>Harmonies and Hal<g ref="char:EOLhyphen"/>lelujah</hi>'s receiv'd, with the <hi>Applauſes of AN<g ref="char:EOLhyphen"/>GELS,</hi> into the <hi>Society of the BLESSED,</hi> and ſo ſhall live in the <hi>VISION and FR<g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>ITION</hi> of the <hi>Moſt High GOD,</hi> the <hi>chiefest GOOD,</hi> with Fulneſs of <hi>Satisfaction,</hi> and Ever<g ref="char:EOLhyphen"/>laſting <hi>Delight.</hi> AMEN.</p>
+            <closer>HALLEL<g ref="char:V">Ʋ</g>JAH.</closer>
+            <pb facs="tcp:62730:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
